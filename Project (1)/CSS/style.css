@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    font: 1em sans-serif;
+}
+body{
+    background-color: rgb(246, 193, 184);
+}
+/* ******************************************************
+Header section start
+****************************************************** */
+
+.logo{
+    font: 1.6em sans-serif;
+    border: solid red;
+
+}
+ul{
+    font: 1.4em sans-serif;
+    text-align: center;
+    position: ;
+}
+.menu-bar{
+    display: flex;
+    gap: 4.8rem;
+}
+li{
+    list-style: none;
+    
+}
